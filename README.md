@@ -1,5 +1,5 @@
-# Perceptron_implimentation_FSDS
-Perceptron_implimentation_FSDS
+# Perceptron_implimentation
+Perceptron_implimentation
 
 ## Commands using - 
 
