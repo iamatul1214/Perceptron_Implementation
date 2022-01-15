@@ -1,5 +1,5 @@
-# Perceptron_implimentation
-Perceptron_implimentation
+# Perceptron_implementation
+Perceptron_implementation
 
 ## Commands using - 
 
